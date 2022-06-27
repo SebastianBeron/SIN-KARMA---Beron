@@ -3,49 +3,49 @@
         "id": 1, 
         "title": "Mila No Carne", 
         "price": 1400, 
-        "image": "https://ibb.co/NxqbRkr/product-1.jpg"
+        "image": "https://i.ibb.co/5T3wZzk/product-1.jpg"
     },
 
     {
         "id": 2, 
         "title": "Mila No Pollo", 
         "price": 1400, 
-        "image": "https://ibb.co/FbkfYp0/product-2.jpg"
+        "image": "https://i.ibb.co/qML4g6W/product-2.jpg"
     },
 
     {
         "id": 3, 
         "title": "Papas Fritas", 
         "price": 700, 
-        "image": "https://ibb.co/K77Zftq/product-3.jpg"
+        "image": "https://i.ibb.co/xGGvBnj/product-3.jpg"
     },
 
     {
         "id": 4, 
         "title": "Ensalada", 
         "price": 900, 
-        "image": "https://ibb.co/k5WLzLw/product-4.jpg"
+        "image": "https://i.ibb.co/0md0106/product-4.jpg"
     },
 
     {
         "id": 5, 
         "title": "Puré de papas", 
         "price": 800, 
-        "image": "https://ibb.co/pyTnP8V/product-5.jpg"
+        "image": "https://i.ibb.co/ZmrNJP4/product-5.jpg"
     },
 
     {   
         "id": 6, 
         "title": "Limonada", 
         "price": 600, 
-        "image": "https://ibb.co/qWFhcmv/product-6.jpg"
+        "image": "https://i.ibb.co/RB4tsQq/product-6.jpg"
     },
 
     {
         "id": 7, 
         "title": "Cerveza", 
         "price": 600, 
-        "image": "https://ibb.co/jGhpKzm/product-7.jpg"
+        "image": "https://i.ibb.co/pZ2mDQc/product-7.jpg"
     },
 
     {
