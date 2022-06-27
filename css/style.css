@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 
 :root {
-    --primaryColor: #30a377;
+    --primaryColor: #2fa276;
     --mainWhite: #141212;
     --mainBlack: #575555;
     --mainGreen: #d4f9da;
     --mainSpacing: 0.1rem;
     --mainTransition: all 0.3s linear;
 }
-
+    
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
@@ -64,6 +65,12 @@ body {
     z-index: 1;
 }
 
+
+.loguito {
+    width: 250px;
+    height: 60px;
+    
+    }
 .navbar-center {
     width: 100%;
     max-width: 1170px;
